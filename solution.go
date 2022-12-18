@@ -5,5 +5,5 @@ import (
 )
 
 func GetMessage() string {
-	return emoji.NormalizeShortCode("Hello :world_map:")
+	return "Hello :world_map:"
 }
